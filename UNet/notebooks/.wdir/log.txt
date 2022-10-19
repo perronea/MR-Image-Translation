@@ -1,0 +1,15 @@
+/home/faird/shared/projects/3D_MRI_GAN/tio_unet/dcan-infant-pipeline/PreFreeSurfer/scripts/ACPCAlignment_with_crop.sh --workindir=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321 --in=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321/sub-4000_ses-030321_T2w_std.nii.gz.gz --ref=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/dcan-infant-pipeline/global/templates/INFANT_MNI_T2_1mm.nii.gz --out=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321/sub-4000_ses-030321_T2w_acpc.nii.gz.gz --omat=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321/sub-4000_ses-030321_T2w_acpc.mat.gz --brainsize=120
+PWD = /panfs/roc/groups/8/faird/shared/projects/3D_MRI_GAN/tio_unet/notebooks
+date: Wed Mar 30 17:45:28 CDT 2022
+ 
+ END: Wed Mar 30 17:45:28 CDT 2022
+/home/faird/shared/projects/3D_MRI_GAN/tio_unet/dcan-infant-pipeline/PreFreeSurfer/scripts/ACPCAlignment_with_crop.sh --workindir=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321 --in=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321/sub-4000_ses-030321_T2w_std.nii.gz.gz --ref=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/dcan-infant-pipeline/global/templates/INFANT_MNI_T2_1mm.nii.gz --out=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321/sub-4000_ses-030321_T2w_acpc.nii.gz.gz --omat=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321/sub-4000_ses-030321_T2w_acpc.mat.gz --brainsize=120
+PWD = /panfs/roc/groups/8/faird/shared/projects/3D_MRI_GAN/tio_unet/notebooks
+date: Wed Mar 30 17:49:01 CDT 2022
+ 
+ END: Wed Mar 30 17:49:01 CDT 2022
+/home/faird/shared/projects/3D_MRI_GAN/tio_unet/dcan-infant-pipeline/PreFreeSurfer/scripts/ACPCAlignment_with_crop.sh --workindir=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321 --in=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321/sub-4000_ses-030321_T2w_std.nii.gz.gz --ref=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/dcan-infant-pipeline/global/templates/INFANT_MNI_T2_1mm.nii.gz --out=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321/sub-4000_ses-030321_T2w_acpc.nii.gz.gz --omat=/home/faird/shared/projects/3D_MRI_GAN/tio_unet/data/WashU/temp/sub-4000_ses-030321/sub-4000_ses-030321_T2w_acpc.mat.gz --brainsize=120
+PWD = /panfs/roc/groups/8/faird/shared/projects/3D_MRI_GAN/tio_unet/notebooks
+date: Wed Mar 30 17:49:17 CDT 2022
+ 
+ END: Wed Mar 30 17:49:17 CDT 2022

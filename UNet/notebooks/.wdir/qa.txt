@@ -1,0 +1,5 @@
+cd /panfs/roc/groups/8/faird/shared/projects/3D_MRI_GAN/tio_unet/notebooks
+# Check that the following image does not cut off any brain tissue
+fslview .wdir/robustroi
+# Check that the alignment to the reference image is acceptable (the top/last image is spline interpolated)
+fslview /home/faird/shared/projects/3D_MRI_GAN/tio_unet/dcan-infant-pipeline/global/templates/INFANT_MNI_T2_1mm.nii.gz .wdir/acpc_final 

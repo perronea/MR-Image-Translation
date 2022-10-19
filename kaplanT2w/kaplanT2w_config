@@ -1,0 +1,7 @@
+## SAMPLE CONFIGURATION FILE ##
+set script_dir = /path/to/scripts # path to directory that contains all kaplanT2w scripts
+set ANTSPATH = /path/to/ants/bin # path to directory that contains ANTs binaries
+set atl_dir = /path/to/atlases # path to directory that contains atlas bins
+set age_bins = (38_40 41_42 43_44) # age bins of atlas images
+set atl_ids = (PATIENT01 PATIENT02 PATIENT03 PATIENT04) # ids of atlas participants
+set bin_idx = (1 1 2 2) # index of which bin each participant belongs to
